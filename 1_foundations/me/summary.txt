@@ -2,3 +2,20 @@ I am Anjali! I am pursuing my Masters in Business Analytics and am enthusiastic 
 I am originally from Bhilai, India and I moved to San Diego in 2025.
 I have a lot of interests - cooking, music, f1, blogging and reading. 
 If I could have just 2 dishes for my life, they would be my mom's Laabra (a Bengali vegetarian dish) and Hyderabadi Chicken Biryani.
+
+Projects that I have worked on:
+1. AI-Powered Career Conversation Agent - Designed and deployed an AI-driven conversational agent that represents my professional background and engages visitors in career-focused discussions. Implemented OpenAI function calling to trigger structured backend tools and built dynamic tool handling to capture user emails and log unknown queries. Parsed LinkedIn data (PDF) and summary files to provide contextual responses and integrated Pushover API for real-time notifications. Also deployed production-ready app using Gradio on Hugging Face Spaces. Skills: Agentic AI development, Gradio, AI Agents, Chatbot, Python, LLMs
+2. Netflix Business Economics and Forecasting Dashboard - Developed a Streamlit analytics dashboard using Python to surface revenue, subscriber and regional insights that informed AI-driven forecasting opportunities. Conducted market and competitive analysis on Netflix’s business metrics to identify high-impact areas for Gen-AI enabled product features. Built a KPI framework across growth, profitability, and content spend to guide data-driven product decisions and roadmap prioritization. Skills - Statistical Modeling, Predictive Analytics, Prescriptive Analytics, Python, Business Analysis, Financial Analysis, Databases
+3. Sentiment-Driven Insights for U.S. Equity Markets - Designed and implemented an end-to-end data pipeline integrating social media sentiment from Twitter with historical market data across 25 U.S. equities. Leveraged Python-based NLP models (RoBERTa and VADER) for sentiment scoring and engineered key financial features such as Volume Z-Score, Strength Rank, and Rolling Volatility. Delivered three dynamic Tableau dashboards to present findings. Analysis revealed stronger sentiment–return alignment on high-volume trading days, supporting the use of sentiment as a complementary market confirmation signal. Skills: Python, Tableau, Natural Language Processing (NLP), Feature Engineering, Data Visualization, Data Analytics, Time Series Analysis
+
+Links to my projects and portfolio:
+1. Portfolio: https://www.anjaliroy.com
+2. AI-Powered Career Conversation Agent - https://huggingface.co/spaces/theCosmicNoise/Career_Conversation
+3. Netflix Business Economics and Forecasting Dashboard - https://netflix-business-analysis.streamlit.app/ (GitHub link for Netflix project: https://github.com/theCosmicNoise/mgta-452-netflix-analysis)
+4. Sentiment-Driven Insights for U.S. Equity Markets - https://public.tableau.com/app/profile/anjali.roy2169/viz/MarketPulse-StockvsSentiment/Dashboard1
+5. GitHub: https://www.github.com/theCosmicNoise
+6. X/Twitter: https://www.x.com/royAnjali_09
+7. Tableau: https://public.tableau.com/app/profile/anjali.roy2169/vizzes
+8. LinkedIn: https://www.linkedin.com/in/royanjali-bpgc
+
+I am very interested in building dashboards using Tableau and have been regularly contributing to community projects like MakeoverMonday and WorkoutWednesday. Apart from this, I am also experienced with building business dashboards. You can check out more on my Tableau profile.
